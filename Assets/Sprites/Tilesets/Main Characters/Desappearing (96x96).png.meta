@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 0f813a3f0ffccb94abcf209793188b23
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desappearing (96x96)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac7e2f85a38aa4cb0043c7aaeaccb9
+      internalID: 912358168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9011842ab5f6e540a09c5d5e95e2dff
+      internalID: 1029409656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c6b603bfc0c0342995dd55ec17e5af
+      internalID: 2103691023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a43bf8ddd50eb41aa7f42438dbc1b8
+      internalID: -975714329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f5da44d0e0cf488843ad119393d03
+      internalID: 173145681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c257003864c9469fda12bec79d54e
+      internalID: -1702689437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desappearing (96x96)_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      physicsShape:
+      - - {x: 0, y: -48}
+        - {x: 48, y: 0}
+        - {x: 0, y: 48}
+        - {x: -48, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb631dd257cdf8468877b4b5af1a44c
+      internalID: 1609150762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Desappearing (96x96)_0: 912358168
+      Desappearing (96x96)_1: 1029409656
+      Desappearing (96x96)_2: 2103691023
+      Desappearing (96x96)_3: -975714329
+      Desappearing (96x96)_4: 173145681
+      Desappearing (96x96)_5: -1702689437
+      Desappearing (96x96)_6: 1609150762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
